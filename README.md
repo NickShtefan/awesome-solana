@@ -55,6 +55,7 @@
 #### Libraries
 - [SolanaJ](https://github.com/p2p-org/solanaj)
 - [Solana Python](https://pypi.org/project/solana/)
+- [Solana Swift](https://github.com/p2p-org/solana-swift)
 
 #### Tutorials & Projects
 - [Programming on Solana - An Introduction](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
